@@ -1,8 +1,8 @@
-Origin: OldFrida
-Label: OldFrida
+Origin: Reposi3
+Label: Reposi3
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Download old Frida
+Description: Reposi3 - a cydia repo template
